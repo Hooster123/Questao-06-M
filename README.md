@@ -1,4 +1,11 @@
-## Getting Started
+
+## Sobre
+
+O projeto consiste numa lista passada pelo professor Alexandre referente a lista Estrutura sequencial de Python do 1 ao 9,
+
+Link:https://wiki.python.org.br/EstruturaSequencial
+
+Enunciado:Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
